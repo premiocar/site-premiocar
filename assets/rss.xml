@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://premiocar.com.br"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>PremioCar Centro Automotivo</title>
+ <link>http://premiocar.com.br</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title></title>
+ <link>http://premiocar.com.br/home</link>
+ <description>&lt;p&gt;&lt;/p&gt;
+&lt;h3 class=&quot;photoslider&quot; id=&quot;default&quot;&gt;
+	&amp;nbsp;&lt;/h3&gt;
+&lt;h3&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;  
+$(document).ready(function(){  
+    //change the &#039;baseURL&#039; to reflect the host and or path to your images  
+    FOTO.Slider.baseURL = &#039;http://www.premiocar.com.br/sites/default/files/&#039;;  
+  
+    //set images by filling our bucket directly  
+  //thumbs must be 150x96px
+    FOTO.Slider.bucket = {  
+        &#039;default&#039;: {  
+0: {&#039;thumb&#039;: &#039;t_0.jpg&#039;, &#039;main&#039;: &#039;0.jpg&#039;},  
+1: {&#039;thumb&#039;: &#039;t_1.jpg&#039;, &#039;main&#039;: &#039;1.jpg&#039;},  
+2: {&#039;thumb&#039;: &#039;t_2.jpg&#039;, &#039;main&#039;: &#039;2.jpg&#039;},  
+3: {&#039;thumb&#039;: &#039;t_3.jpg&#039;, &#039;main&#039;: &#039;3.jpg&#039;},
+4: {&#039;thumb&#039;: &#039;t_4.jpg&#039;, &#039;main&#039;: &#039;4.jpg&#039;},
+5: {&#039;thumb&#039;: &#039;t_5.jpg&#039;, &#039;main&#039;: &#039;5.jpg&#039;},
+        }  
+    };  
+});  
+&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt;  
+    $(document).ready(function(){  
+        var ids = new Array(0,1,2,3,4,5);  
+        FOTO.Slider.importBucketFromIds(&#039;default&#039;,ids);  
+        FOTO.Slider.reload(&#039;default&#039;);  
+        FOTO.Slider.preloadImages(&#039;default&#039;);
+    });  
+&lt;/script&gt;&lt;/h3&gt;
+&lt;h3 class=&quot;le rtejustify&quot;&gt;
+	&amp;nbsp;&lt;/h3&gt;
+&lt;h6 class=&quot;le rtejustify&quot;&gt;
+	&lt;span style=&quot;font-size:14px;&quot;&gt;Conhe&amp;ccedil;a os servi&amp;ccedil;os PremioCar Centro Automotivo, qualidade e credibilidade com mais de 25 anos de comprova&amp;ccedil;&amp;atilde;o.&lt;/span&gt;&lt;/h6&gt;
+&lt;h6 class=&quot;le rtejustify&quot;&gt;
+	&lt;span style=&quot;font-size:14px;&quot;&gt;Empresa s&amp;oacute;lida no mercado de repara&amp;ccedil;&amp;atilde;o de ve&amp;iacute;culos automotores, usando tecnologia e conhecimento de ponta.&lt;/span&gt;&lt;/h6&gt;
+&lt;h6 class=&quot;le rtejustify&quot;&gt;
+	&lt;span style=&quot;font-size:14px;&quot;&gt;T&amp;eacute;cnicos habilitados preparados para os desafios do mercado.&lt;/span&gt;&lt;/h6&gt;
+&lt;h6 class=&quot;le rtejustify&quot;&gt;
+	&lt;span style=&quot;font-size:14px;&quot;&gt;Referencial t&amp;eacute;cnico com rela&amp;ccedil;&amp;atilde;o &amp;agrave; consertos automotivos dentro do estado.&lt;/span&gt;&lt;/h6&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2 class=&quot;rtecenter&quot;&gt;
+	&lt;span style=&quot;color: rgb(255, 140, 0);&quot;&gt;Pe&amp;ccedil;a j&amp;aacute; o seu or&amp;ccedil;amento ou agende a sua revis&amp;atilde;o&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 class=&quot;rtecenter&quot;&gt;
+	&lt;span style=&quot;color: rgb(255, 140, 0);&quot;&gt;atrav&amp;eacute;s da nossa &lt;/span&gt;&lt;a href=&quot;/contato&quot;&gt;&lt;span style=&quot;color: rgb(211, 211, 211);&quot;&gt;p&amp;aacute;gina de contato&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color: rgb(255, 140, 0);&quot;&gt;.&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2 class=&quot;rtecenter&quot;&gt;
+	&lt;span style=&quot;font-size:20px;&quot;&gt;Parcelamos em at&amp;eacute; 3x no pre&amp;ccedil;o &amp;agrave; vista.&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+ <pubDate>Thu, 31 May 2012 17:15:47 +0000</pubDate>
+ <dc:creator>Admin</dc:creator>
+ <guid isPermaLink="false">1 at http://premiocar.com.br</guid>
+</item>
+</channel>
+</rss>
